@@ -1,0 +1,21 @@
+Index   Value   Found-Linear    Linear Time(ms) Found Binary    Binary Time(ms) 
+0       188     false           1274            false           12              
+1       311     true            707             true            11              
+2       725     true            1260            true            11              
+3       53      true            756             true            11              
+4       89      true            116             true            11              
+5       859     false           1262            false           12              
+6       163     true            946             true            11              
+7       676     false           1270            false           13              
+8       305     true            1006            true            12              
+9       116     true            768             true            11              
+10      31      false           1264            false           13              
+11      585     false           1265            false           13              
+12      82      true            741             true            11              
+13      160     true            58              true            12              
+14      412     false           1266            false           13              
+15      845     true            179             true            12              
+16      579     true            617             true            12              
+17      563     false           1269            false           13              
+18      31      false           1265            false           13              
+19      224     true            910             true            13              
